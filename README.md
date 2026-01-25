@@ -29,13 +29,10 @@ It shows top headlines and allows users to bookmark articles and read full news 
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="screenshots/splash.png" width="250"/>
-  <img src="screenshots/home.png" width="250" />
-</p>
-
-<p float="left">
-  <img src="screenshots/bookmarks.png" width="250" />
-  <img src="screenshots/webview.png" width="250" />
+  <img src="screenshots/splash.png" width="100"/>
+  <img src="screenshots/home.png" width="100" />
+  <img src="screenshots/bookmarks.png" width="100" />
+  <img src="screenshots/webview.png" width="100" />
 </p>
 
 ---
