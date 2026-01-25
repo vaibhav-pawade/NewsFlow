@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# APK / AAB
+*.apk
+*.aab
+
+# Kotlin
+.kotlin/
+
+# Cache
+.caches/
+
+# Firebase
+google-services.json
