@@ -1,7 +1,6 @@
 # 📰 NewsFlow
 
-NewsFlow is a simple Android news app built using **Jetpack Compose**.  
-It shows top headlines and allows users to bookmark articles and read full news inside the app.
+JobTrack is a simple Android application that helps users track job applications, manage details, and stay organized throughout their job search.
 
 ---
 
