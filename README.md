@@ -1,6 +1,6 @@
 # 📰 NewsFlow
 
-JobTrack is a simple Android application that helps users track job applications, manage details, and stay organized throughout their job search.
+NewsFlow is an Android news application that displays top headlines and allows users to bookmark articles and read full news within the app.
 
 ---
 
